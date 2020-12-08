@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F73984AsS4fhhxa50XjLnZFdN08rTD8APuXsV1cc7fwd75rz6MuY2bDk5Ik96I3aL/bPcLtDadO8K9Cw+K2b/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Angel Pedroza\\Desktop\\Desarrollo\\PersonalFinantialAdministration\\src\\PersonalFinantialAdministration\\PersonalFinantialAdministration\\PersonalFinantialAdministration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Angel Pedroza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Angel Pedroza\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
